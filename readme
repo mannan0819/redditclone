@@ -1,0 +1,32 @@
+EXPRESS {
+    APOLLO {
+        Resolvers {
+            MIKRO-ORM {
+                POSTGRESS
+            }
+        }
+    }
+}
+
+
+
+Express {
+    Sessions {
+        setCOOKIE
+
+    }
+}
+
+
+WEB:
+ - Next for SERVER SIDE FOR googles SEO
+ - Chakra UI
+ - URQL FOR GRAPHQL
+ - GRAPHQL-CODEGEN
+    - generates code by using gen command 
+    - hooks for GRAPHQL quires and mutations are generated in the graphql file
+ - exchange-graphcache 
+    - for caching 
+
+
+
